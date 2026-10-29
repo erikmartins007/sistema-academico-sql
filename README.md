@@ -34,7 +34,7 @@ O projeto contém cinco tabelas:
 5. Consulte o resultado do `SELECT` final para visualizar as informações relacionadas.
 
 ## Demonstração
-O arquivo SQL inclui uma consulta que relaciona docentes, departamentos, disciplinas e ofertas. Uma captura de tela do resultado da execução será adicionada nesta seção.
+![Resultado da consulta INNER JOIN](resultado-inner-join.png..png)
 
 ## Contexto acadêmico
 Trabalho prático desenvolvido na disciplina de Banco de Dados do curso de Sistemas de Informação, em 2026.
