@@ -1,0 +1,16 @@
+
+# Arquivos temporarios
+*.tmp
+*.log
+*.bak
+
+# Configuracoes locais
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos com credenciais
+.env
+.env.*
